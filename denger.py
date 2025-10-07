@@ -14,7 +14,7 @@ danger_well = {
 @app.get("/")
 def home():
     return {
-        "message": "⚡ Zahra's Denger API is running successfully!",
+        "message": "⚡  Denger API is running successfully!",
         "docs": "/docs",
         "example_routes": ["/api/danger", "/denger/test"]
     }
