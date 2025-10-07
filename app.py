@@ -1,0 +1,1 @@
+from denger import app
